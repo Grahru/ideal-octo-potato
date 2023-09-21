@@ -5,5 +5,3 @@ Repositorio creado para modulo IAW.
 
 # Bye
 # Holi
-
-comprobacion
